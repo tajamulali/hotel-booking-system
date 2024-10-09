@@ -20,7 +20,7 @@
 </head>
     
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-lg-2 shadow-5 sticky-top">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light px-lg-3 py-lg-2 shadow-5 sticky-top">
         <div class="container-fluid">
           <a class="navbar-brand me-5 fw=bold fs-3 h-font" href="index.php">SMA Hotel</a>
           <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -155,7 +155,7 @@
 <!-- Carousal -->
 
 <div class="container-fluid px-lg-4 mt-4">
-  <div class="swiper mySwiper">
+  <div class="swiper swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <img src="images/carousel/IMG_55677.png" class="w-100 d-block"/>
@@ -180,6 +180,7 @@
 </div>
 
 <!-- check availability form -->
+
 <div class="container availability-form">
   <div class="row">
     <div class="col-lg-12 bg-white shadow p-4 rounded">
@@ -390,26 +391,163 @@
   </div>
 </div>
 
+<!-- Our Rooms -->
 
+<h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Our Facilities</h2>
 
-<br><br><br>
-<br><br><br>
+<div class="container">
+  <div class="row justify-content-evenly px-lg-0 px-md-0 px-5">
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+      <img src="images/facilities/IMG_43553.svg" width="80px">
+      <h5 class="mt-3">Wifi</h5>
+    </div>
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+      <img src="images/facilities/IMG_49949.svg" width="80px">
+      <h5 class="mt-3">AC</h5>
+    </div>
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+      <img src="images/facilities/IMG_41622.svg" width="80px">
+      <h5 class="mt-3">Television</h5>
+    </div>
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+      <img src="images/facilities/IMG_27079.svg" width="80px">
+      <h5 class="mt-3">Service</h5>
+    </div>
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+      <img src="images/facilities/IMG_96423.svg" width="80px">
+      <h5 class="mt-3">Room Heater</h5>
+    </div>
+    <div class="col-lg-12 text-center mt-5">
+      <a href="#" class="btn btn-sm btn-outline-dark rounded fw-bold shadow-none">More Facilities >>></a>
+    </div>
+  </div>
+</div>
 
+<!-- Testimonials -->
+
+<h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Testimonials</h2>
+
+<div class="container mt-5">
+  <div class="swiper swiper-testimonials">
+    <div class="swiper-wrapper mb-5">
+      <div class="swiper-slide bg-white p-4">
+        <div class="profile d-flex align-items-center mb-3">
+          <img src="images/facilities/IMG_96423.svg" width="30px">
+          <h2 class="m-0 ms-2">Random User1</h2>
+        </div>
+        <p>testimonials testimonials testimonials testimonials testimonials testimonials testimonials testimonials testimonials</p>
+        <div class="rating">
+          <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+        </div>
+      </div>
+      <div class="swiper-slide bg-white p-4">
+        <div class="profile d-flex align-items-center mb-3">
+          <img src="images/facilities/IMG_96423.svg" width="30px">
+          <h2 class="m-0 ms-2">Random User1</h2>
+        </div>
+        <p>testimonials testimonials testimonials testimonials testimonials testimonials testimonials testimonials testimonials</p>
+        <div class="rating">
+          <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+        </div>
+      </div>
+      <div class="swiper-slide bg-white p-4">
+        <div class="profile d-flex align-items-center mb-3">
+          <img src="images/facilities/IMG_96423.svg" width="30px">
+          <h2 class="m-0 ms-2">Random User1</h2>
+        </div>
+        <p>testimonials testimonials testimonials testimonials testimonials testimonials testimonials testimonials testimonials</p>
+        <div class="rating">
+          <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+              <i class="bi bi-star-fill text-warning"></i>
+        </div>
+      </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+<div class="col-lg-12 text-center mt-5">
+  <a href="#" class="btn btn-sm btn-outline-dark rounded fw-bold shadow-none">Know More >>></a>
+</div>
+<!-- Reach Us -->
+
+<h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Reach Us</h2>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-8 p-4 mb-lg--1x mb-3 bg-light rounded">
+     <iframe class="w-100 rounded" height="320px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d123200.36759234093!2d74.64919166764469!3d34.18727507714713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e182b72729b827%3A0x36115238bff28861!2sGanderbal%20191201!5e0!3m2!1sen!2sin!4v1728457338223!5m2!1sen!2sin" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
+    </div>
+    <div class="col-lg-4 col-md-4">
+      <div class="bg-light p-4 rounded mb-4">
+        <h5>Call Us</h5>
+        <a href="tel: +917006123456" class="d-inline-block mb-2 text-decoration-none text-dark">
+          <i class="bi bi-telephone-outbound-fill"></i> +917006123456</a>
+          <br>
+          <a href="tel: +917006123456" class="d-inline-block text-decoration-none text-dark">
+          <i class="bi bi-telephone-outbound-fill"></i> +917006654321</a>
+      </div>
+      <div class="bg-light p-4 rounded mb-4">
+        <h5>Follow Us</h5>
+        <a href="#" class="d-inline-block mb-3">
+          <span class="badge bg-white text-dark fs-6 p-2">
+            <i class="bi bi-twitter-x me-1"></i> Twitter
+          </span>
+        </a>
+        <br>
+          <a href="#" class="d-inline-block mb-3">
+          <span class="badge bg-white text-dark fs-6 p-2">
+            <i class="bi bi-facebook me-1"></i> Facebook
+          </span>
+        </a>
+        <br>
+          <a href="#" class="d-inline-block">
+          <span class="badge bg-white text-dark fs-6 p-2">
+            <i class="bi bi-instagram me-1"></i> Instagram
+          </span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+
+<div class="container-fluid bg-white shadow mt-5">
+  <div class="row">
+    <div class="col-lg-4 p-4 shadow">
+     <h3 class="h-font fw-bold fs-3 mb-2">SMA Hotel</h3>
+     <p>Anything something Anything something Anything something Anything something Anything something</p> 
+    </div>
+    <div class="col-lg-4 p-4 shadow">
+      <h5 class="mb-3">Links</h5>
+      <a href="" class="d-inline-block mb-2 text-dark text-decoration-none bg-light shadow">Home</a><br>
+      <a href="" class="d-inline-block mb-2 text-dark text-decoration-none bg-light shadow">Rooms</a><br>
+      <a href="" class="d-inline-block mb-2 text-dark text-decoration-none bg-light shadow">Facilities</a><br>
+      <a href="" class="d-inline-block mb-2 text-dark text-decoration-none bg-light shadow">Contact Us</a><br>
+      <a href="" class="d-inline-block mb-2 text-dark text-decoration-none bg-light shadow">About</a>
+    </div>
+    <div class="col-lg-4 p-4 shadow">
+      <h5 class="mb-3">Follow Us</h5>
+      <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none mb-2 bg-light shadow"><i class="bi bi-twitter-x me-1"></i> Twitter</a><br>
+      <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none mb-2 bg-light shadow"><i class="bi bi-facebook me-1"></i> Facebook</a><br>
+      <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none bg-light shadow"><i class="bi bi-instagram me-1"></i> Instagram</a><br>
+    </div>
+  </div>
+</div>
+
+<h6 class="text-center bg-dark text-white p-3 m-0">Design & Developed by SMA</h6>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
- <script>
-    var swiper = new Swiper(".mySwiper", {
-      spaceBetween: 30,
-      effect: "fade",
-      loop: true,
-      autoplay: {
-        delay: 2500,
-        disableOnInteraction: false,
-      },
-    });
-  </script>
+<script type="text/javascript" src="javaScript/script.js"></script>
 </body>
 </html>
-
