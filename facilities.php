@@ -15,10 +15,26 @@
   <h2 class="fw-bold h-font text-center">Our Facilities</h2>
   <div class="h-line bg-dark"></div>
   <p class="text-center mt-3">
-    jdgsjgcfj djgjydwb wdjbhb jhbkjuh hjhjwb,bkj hjcvjhbn  bghvjh,cmmncb rbnvjhcvmhgv
-    jhbjhbcjhbdkjvffv fjhkf kjfej<br>
-    kejjnkj envjkh fkjhuefhk jefkjhkvehn fkhuhfkn ejhkjefm efhfb efmn hjbvhsdh<br>
-    djwcb,j  jdwhbjb hbbvjwc  hhd 
+    <h6 class="text-center h-font">At Hotel SMA, we pride ourselves on offering a wide range of facilities to ensure a comfortable<br> 
+    and enjoyable stay for our guests. Our state-of-the-art amenities are designed <br>
+    to cater to the needs of both business and leisure travelers.
+  </h6>
+    <br>
+    <b>Luxurious Rooms:</b> Our well-appointed rooms feature modern decor, plush bedding, and all the amenities you need for a relaxing stay.
+    <br>
+    <b>Dining Options:</b> Enjoy a variety of dining experiences at our on-site restaurants, offering everything from local delicacies to international cuisine.
+    <br>
+    <b>Fitness Center:</b> Stay active during your stay with access to our fully equipped fitness center, featuring the latest exercise equipment.
+    Swimming Pool: Take a refreshing dip in our outdoor swimming pool, perfect for unwinding after a long day.
+    <br>
+    <b>Spa and Wellness:</b> Indulge in a range of spa treatments and wellness services designed to rejuvenate your mind and body.
+    <br>
+    <b>Business Center:</b> Our business center provides all the facilities you need to stay productive, including high-speed internet, printing, and meeting rooms.
+    <br>
+    <b>Event Spaces:</b> Host your next event in our versatile event spaces, ideal for conferences, weddings, and social gatherings.
+    <br>
+    <b>Concierge Services:</b> Our dedicated concierge team is here to assist you with any requests, from restaurant reservations to local sightseeing tours.
+    <b>Complimentary Wi-Fi:</b> Stay connected with complimentary high-speed Wi-Fi available throughout the hotel. 
   </p>
 </div>
 <div class="container">

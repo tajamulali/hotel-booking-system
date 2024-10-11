@@ -51,8 +51,8 @@
 
 .pop:hover{
     border-top-color: #2ec1ac !important;
-    transform: scale(1.03);
-    transition: all 0.3s;
+    transform: scale(2.0);
+    transition: all 0.9s;
 }
 
 .box{

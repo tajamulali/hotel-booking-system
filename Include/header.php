@@ -12,13 +12,13 @@
 								<a class="nav-link active me-2" aria-current="page" href="index.php">Home</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link me-2" href="#">Rooms</a>
+								<a class="nav-link me-2" href="room.php">Rooms</a>
 							</li>
 								<li class="nav-item">
 								<a class="nav-link me-2" href="facilities.php">Facilities</a>
 							</li>
 								<li class="nav-item">
-								<a class="nav-link me-2" href="#">Contact Us</a>
+								<a class="nav-link me-2" href="contact.php">Contact Us</a>
 							</li>
 								 <li class="nav-item">
 								<a class="nav-link me-2" href="about.php">About</a>
@@ -51,11 +51,11 @@
 					<div class="modal-body">
 					</div>
 					<div class="mb-3 me-3 ms-3">
-						<labelclass="form-label">Email address</label>
+						<label class="form-label">Email address</label>
 						<input type="email" class="form-control shadow-none">
 					</div>
 					<div class="mb-5 me-3 ms-3">
-						<labelclass="form-label">Password</label>
+						<label class="form-label">Password</label>
 						<input type="password" class="form-control shadow-none">
 					</div>
 					<div class="d-flex align-items-center justify-content-between mb-3">
@@ -86,39 +86,39 @@
 							<div class="container-fluid">
 								<div class="row">
 									<div class="col-md-6 ps-0 mb-3">
-										<labelclass="form-label">Name</label>
+										<label class="form-label">Name</label>
 										<input type="text" class="form-control shadow-none">
 									</div>
 									<div class="col-md-6 p-0 mb-3">
-										<labelclass="form-label">Email</label>
+										<label class="form-label">Email</label>
 										<input type="email" class="form-control shadow-none">
 									</div>  
 									<div class="col-md-6 ps-0 mb-3">
-										<labelclass="form-label">Phone Number</label>
+										<label class="form-label">Phone Number</label>
 										<input type="number" class="form-control shadow-none">
 									</div>
 									<div class="col-md-6 p-0 mb-3">
-										<labelclass="form-label">picture</label>
+										<label class="form-label">picture</label>
 										<input type="File" class="form-control shadow-none">
 									</div> 
 									<div class="col-md-12 p-0 mb-3">
-										<labelclass="form-label">Address</label>
+										<label class="form-label">Address</label>
 										<textarea class="form-control shadow-none" rows="1"></textarea>
 									</div>
 									<div class="col-md-6 ps-0 mb-3">
-										<labelclass="form-label">Pin Code</label>
+										<label class="form-label">Pin Code</label>
 										<input type="number" class="form-control shadow-none">
 									</div>
 									<div class="col-md-6 p-0 mb-3">
-										<labelclass="form-label">Date of Birth</label>
+										<label class="form-label">Date of Birth</label>
 										<input type="date" class="form-control shadow-none">
 									</div> 
 									<div class="col-md-6 ps-0 mb-3">
-										<labelclass="form-label">Password</label>
+										<label class="form-label">Password</label>
 										<input type="password" class="form-control shadow-none">
 									</div>
 									<div class="col-md-6 p-0 mb-3">
-										<labelclass="form-label">Confirm Password</label>
+										<label class="form-label">Confirm Password</label>
 										<input type="password" class="form-control shadow-none">
 									</div>   
 								</div>

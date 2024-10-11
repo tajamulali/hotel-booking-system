@@ -15,30 +15,30 @@
   <h2 class="fw-bold h-font text-center">About Us</h2>
   <div class="h-line bg-dark"></div>
   <p class="text-center mt-3">
-    <h4 class="h-font fw-bold mt-3 mb-3">Welcome to [Hotel Name]</h4>
+    <h4 class="h-font fw-bold mt-3 mb-3 text-center">Welcome to Hotel SMA</h4>
     Nestled in the heart of Ganderbal , SMA Hotel offers a unique blend of comfort, luxury, and exceptional service. Our hotel is designed to cater to both business and leisure travelers, providing a serene escape from the hustle and bustle of everyday life.
     
-    <h4 class="h-font fw-bold mt-3 mb-3">Our Story</h4>
+    <h4 class="h-font fw-bold mt-3 mb-3 text-center">Our Story</h4>
     Founded in 1959, Hotel SMA has been a beacon of hospitality and elegance. Our mission is to create memorable experiences for our guests, ensuring that every stay is as comfortable and enjoyable as possible. With a commitment to excellence, we have built a reputation for providing top-notch service and unparalleled amenities.
     
-    <h4 class="h-font fw-bold mt-3 mb-3">Our Rooms</h4>
+    <h4 class="h-font fw-bold mt-3 mb-3 text-center">Our Rooms</h4>
     Each of our rooms is thoughtfully designed to provide the utmost in comfort and convenience. From plush bedding to modern amenities, we ensure that our guests have everything they need for a relaxing stay. Whether you're here for a short visit or an extended stay, our rooms offer a perfect retreat.
     
-    <h4 class="h-font fw-bold mt-3 mb-3">Dining</h4>
+    <h4 class="h-font fw-bold mt-3 mb-3 text-center">Dining</h4>
     Indulge in a culinary journey at our on-site restaurant, where our talented chefs create delectable dishes using the finest ingredients. From local delicacies to international cuisine, our menu is sure to satisfy every palate. Enjoy a meal in our elegant dining room or unwind with a drink at our cozy bar.
   
-    <h4 class="h-font fw-bold mt-3 mb-3">Amenities</h4>
+    <h4 class="h-font fw-bold mt-3 mb-3 text-center">Amenities</h4>
     At Hotel SMA, we believe in providing our guests with a comprehensive range of amenities to enhance their stay. Our facilities include a state-of-the-art fitness center, a refreshing swimming pool, and a relaxing spa. For business travelers, we offer well-equipped meeting rooms and a business center.
 
-    <h4 class="h-font fw-bold mt-3 mb-3">Our Team</h4>
+    <h4 class="h-font fw-bold mt-3 mb-3 text-center">Our Team</h4>
 
     Our dedicated team of professionals is here to ensure that your stay is nothing short of perfect. From the moment you arrive, you'll be greeted with warm hospitality and personalized service. We take pride in going above and beyond to meet the needs of our guests.
 
-    <h4 class="h-font fw-bold mt-3 mb-3">Location</h4>
+    <h4 class="h-font fw-bold mt-3 mb-3 text-center">Location</h4>
 
-    Conveniently located near [Landmark/Attraction], [Hotel Name] offers easy access to the city's top attractions, shopping districts, and entertainment venues. Whether you're exploring the local culture or attending a business meeting, our prime location makes it easy to get around.
+    Conveniently located near Landmark/Attraction, Hotel SMA offers easy access to the city's top attractions, shopping districts, and entertainment venues. Whether you're exploring the local culture or attending a business meeting, our prime location makes it easy to get around.
     
-    <h4 class="h-font fw-bold mt-3 mb-3">Contact Us</h4>
+    <h4 class="h-font fw-bold mt-3 mb-3 text-center">Contact Us</h4>
 
     We look forward to welcoming you to Hotel SMA. For reservations or inquiries, please contact us at [Phone Number] or [Email Address]. Follow us on Instagram, Facebook & Twitter-X to stay updated on our latest offers and events.
   </p>
@@ -47,12 +47,13 @@
 <div class="container">
   <div class="row justify-content-between align-items-center">
     <div class="col-lg-6 col-md-5 mb-4 order-lg-1 order-md-1 order-2">
-      <h4 class="mb-3">khfh kjbfkjd fjbbf nmfjkbd</h4>
+      <h4 class="mb-3">Welcome to SMA Hotel</h4>
       <p>
-        fjh dfjudf dfyhdf dfjybhfd uydfhud duyhd bk fyuhfvb uyh vub ejb b fjubhb bjhb erhye b euybrf bue
-        ejhbjbfvbv iubjb eibejb  erjbh erjbe newndjbw kjnhknkjnnb jbn gmjnkjn jnbmb nm,b ,mn kjn  kj bjk
-        fjh dfjudf dfyhdf dfjybhfd uydfhud duyhd bk fyuhfvb uyh vub ejb b fjubhb bjhb erhye b euybrf bue
-        ejhbjbfvbv iubjb eibejb  erjbh erjbe newndjbw kjnhknkjnnb jbn gmjnkjn jnbmb nm,b ,mn kjn  kj bjk
+        Founded in 1959, Hotel SMA has been a beacon of hospitality and elegance. 
+        Our mission is to create memorable experiences for our guests, ensuring that 
+        every stay is as comfortable and enjoyable as possible. With a commitment to 
+        excellence, we have built a reputation for providing top-notch service and 
+        unparalleled amenities.
       </p>
     </div>
     <div class="col-lg-5 col-md-5 mb-4 order-lg-2 order-md-2 order-1">

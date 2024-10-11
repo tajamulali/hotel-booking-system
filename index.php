@@ -42,20 +42,20 @@
 
 <div class="container availability-form">
   <div class="row">
-    <div class="col-lg-12 bg-light shadow p-4 rounded">
+    <div class="col-lg-12 bg-white shadow p-4 rounded">
       <h5 class="mb-4">Check Booking Availability</h5>
       <form>
         <div class="row align-items-end">
           <div class="col-lg-3 mb-3">
-            <labelclass="form-label" style="font-weight: 500;">Check-in</label>
+            <label class="form-label" style="font-weight: 500;">Check-in</label>
             <input type="date" class="form-control shadow-none">
           </div>
           <div class="col-lg-3 mb-3">
-            <labelclass="form-label" style="font-weight: 500;">Check-out</label>
+            <label class="form-label" style="font-weight: 500;">Check-out</label>
             <input type="date" class="form-control shadow-none">
           </div>
           <div class="col-lg-3 mb-3">
-            <labelclass="form-label" style="font-weight: 500;">Adult</label>
+            <label class="form-label" style="font-weight: 500;">Adult</label>
             <select class="form-select shadow-none">
               <option selected>Select</option>
               <option value="1">One</option>
@@ -64,7 +64,7 @@
             </select>
           </div>
           <div class="col-lg-2 mb-3">
-            <labelclass="form-label" style="font-weight: 500;">Children</label>
+            <label class="form-label" style="font-weight: 500;">Children</label>
             <select class="form-select shadow-none">
               <option selected>Select</option>
               <option value="1">One</option>
@@ -95,37 +95,46 @@
           <h6 class="mb-4">₹2000 per night</h6>
           <div class="features mb-4">
             <h6 class="mb-2">Features</h6>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 2 Rooms     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 1 Bathroom     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 1 Balcony     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 3 Sofa     
             </span>
           </div>
           <div class="facilities mb-4">
             <h6 class="mb-2">Facilities</h6>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Wifi     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Television    
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 AC     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Room Service     
+            </span>
+          </div>
+          <div class="guests mb-4">
+            <h6 class="mb-2">Guests</h6>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                5 Adults     
+            </span>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                4 Childrens    
             </span>
           </div>
           <div class="mb-4">
             <h6 class="mb-2">Rating</h6>
-            <span class="badge rounded-pill bg-white ">
+            <span class="badge rounded-pill bg-light ">
               <i class="bi bi-star-fill text-warning"></i>
               <i class="bi bi-star-fill text-warning"></i>
               <i class="bi bi-star-fill text-warning"></i>
@@ -147,37 +156,46 @@
           <h6 class="mb-4">₹2000 per night</h6>
           <div class="features mb-4">
             <h6 class="mb-2">Features</h6>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 2 Rooms     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 1 Bathroom     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 1 Balcony     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 3 Sofa     
             </span>
           </div>
           <div class="facilities mb-4">
             <h6 class="mb-2">Facilities</h6>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Wifi     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Television    
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 AC     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Room Service     
+            </span>
+          </div>
+          <div class="guests mb-4">
+            <h6 class="mb-2">Guests</h6>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                5 Adults     
+            </span>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                4 Childrens    
             </span>
           </div>
           <div class="mb-4">
             <h6 class="mb-2">Rating</h6>
-            <span class="badge rounded-pill bg-white ">
+            <span class="badge rounded-pill bg-light ">
               <i class="bi bi-star-fill text-warning"></i>
               <i class="bi bi-star-fill text-warning"></i>
               <i class="bi bi-star-fill text-warning"></i>
@@ -199,37 +217,46 @@
           <h6 class="mb-4">₹2000 per night</h6>
           <div class="features mb-4">
             <h6 class="mb-2">Features</h6>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 2 Rooms     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 1 Bathroom     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 1 Balcony     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 3 Sofa     
             </span>
           </div>
           <div class="facilities mb-4">
             <h6 class="mb-2">Facilities</h6>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Wifi     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Television    
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 AC     
             </span>
-            <span class="badge rounded-pill bg-white text-dark text-wrap">
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
                 Room Service     
+            </span>
+          </div>
+          <div class="guests mb-4">
+            <h6 class="mb-2">Guests</h6>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                5 Adults     
+            </span>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                4 Childrens    
             </span>
           </div>
           <div class="mb-4">
             <h6 class="mb-2">Rating</h6>
-            <span class="badge rounded-pill bg-white ">
+            <span class="badge rounded-pill bg-light ">
               <i class="bi bi-star-fill text-warning"></i>
               <i class="bi bi-star-fill text-warning"></i>
               <i class="bi bi-star-fill text-warning"></i>
@@ -250,7 +277,7 @@
   </div>
 </div>
 
-<!-- Our Rooms -->
+<!-- Our Facilities -->
 
 <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Our Facilities</h2>
 
