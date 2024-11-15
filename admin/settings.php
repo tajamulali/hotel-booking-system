@@ -107,14 +107,18 @@
         xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
         xhr.onload = function(){
-            console.log(this.responseText)
-            // general_data = JSON.parse(this.responseText);
 
-            // site_title.innerText = general_data.site_title;
-            // site_about.innerText = general_data.site_about;
-
-            // site_title_inp.value =general_data.site_title;
-            // site_about_inp.value =general_data.site_about;
+            var myModal = document.getElementById('general-s');
+            var modal = bootstrap.Modal.getInstance(myModal);
+            modal.hide();
+            
+            if(this.responseText == 1){
+                console.log('data updated');
+                get_general();
+            }
+            else{
+                console.log('no changes made');
+            }
         }
 
         xhr.send('site_title='+site_title_val+'&site_about='+site_about_val+'&upd_general');
