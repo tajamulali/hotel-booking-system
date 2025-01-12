@@ -59,3 +59,8 @@
     border-top-color: #2ec1ac !important;
 }
 
+.custom-alert{
+  position: fixed;
+  top: 80px;
+  right: 25px;
+}

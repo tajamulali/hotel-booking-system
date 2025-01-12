@@ -4,10 +4,14 @@
 
 define('SITE_URL','http://127.0.0.1/hotel-booking-system/');
 define('ABOUT_IMG_PATH',SITE_URL.'images/about/');
+define('CAROUSEL_IMG_PATH',SITE_URL.'images/carousel/');
+
 
 //this data is used for uploading process
 define('UPLOAD_IMAGE_PATH',$_SERVER['DOCUMENT_ROOT'].'/hotel-booking-system/images/');
 define('ABOUT_FOLDER','about/');
+define('CAROUSEL_FOLDER','carousel/');
+
 
 function adminLogin()
 {
@@ -26,7 +30,7 @@ function redirect($url)
 
 function alert($type, $msg)
 {
-    $bs_class = ($type == "sucess") ? "alert-sucess" : "alert-danger";
+    $bs_class = ($type == "success") ? "alert-success" : "alert-danger";
 	 echo <<<alert
                 <div class="alert $bs_class alert-dismissible fade show custom-alert" role="alert">
                     <strong class="me-3">$msg</strong>
