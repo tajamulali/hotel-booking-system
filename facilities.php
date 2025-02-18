@@ -15,7 +15,7 @@
   <h2 class="fw-bold h-font text-center">Our Facilities</h2>
   <div class="h-line bg-dark"></div>
   <p class="text-center mt-3">
-    <h6 class="text-center h-font">At Hotel SMA, we pride ourselves on offering a wide range of facilities to ensure a comfortable<br> 
+    <h6 class="text-center h-font">At Hotel Waibyhotel, we pride ourselves on offering a wide range of facilities to ensure a comfortable<br> 
     and enjoyable stay for our guests. Our state-of-the-art amenities are designed <br>
     to cater to the needs of both business and leisure travelers.
   </h6>
